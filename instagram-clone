@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body>
+    <div class="flex ">
+        <div class="w-[260px] h-screen bg-white  flex flex-col gap-5 ml-5 border-r-2">
+            <div class="">
+                <img src="/Images/Instagram-Logo-text.png" alt="logo" class="w-27 mt-10 mr-22">
+            </div>
+
+
+            <div class="flex flex-col gap-10 ml-2">               
+                <div class="flex items-center gap-2 ">
+                    <img src="/Images/Home-icon.jpeg" alt="home" class=" w-6 " >
+                    <p>
+                        Home
+                    </p>
+                </div>
+                <div class="flex items-center gap-2 ">
+                    <img src="/Images/Search-icon.jpeg" alt="home" class=" w-6 " >
+                    <p>
+                        Search
+                    </p>
+                </div>
+
+                <div class="flex items-center gap-2 ">
+                    <img src="/Images/Explore-icon.jpeg" alt="home" class=" w-6 " >
+                    <p>
+                        Explore
+                    </p>
+                </div>
+
+                <div class="flex items-center gap-2 ">
+                    <img src="/Images/instagram-reels-icon.png" alt="home" class=" w-6 " >
+                    <p>
+                        Reels
+                    </p>
+                </div>
+
+                <div class="flex items-center gap-2 ">
+                    <img src="/Images/instagram-dm-direct-message-icon.png" alt="home" class=" w-6 " >
+                    <p>
+                        Messages
+                    </p>
+                </div>
+
+                <div class="flex items-center gap-2 ">
+                    <img src="/Images/Instagram-notifications-icon.png" alt="home" class=" w-6 " >
+                    <p>
+                        Notifications
+                    
+                    </p>
+                </div>
+
+                <div class="flex items-center gap-2 ">
+                    <img src="/Images/Create-icon.jpeg" alt="home" class=" w-6" >
+                    <p>
+                        Create
+                    </p>
+                </div>
+                <div class="flex items-center gap-2 ">
+                    <img src="IMG-20250720-WA0009.jpg" alt="home" class=" w-6 h-6 rounded-[100px] border-2 " >
+                    <p class=" font-bold">
+                        Profile
+                    </p>
+                </div>
+
+                <div class="flex items-center gap-2 ">
+                    <img src="/Images/More-icon.jpeg" alt="home" class=" w-6 " >
+                    <p>
+                        More
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="bg-white h-1000 flex justify-center">
+        <div class="w-300 h-1000 bg-white">
+            <header class="flex justify-center mt-12 gap-25">
+                <div>
+                  <img src="IMG-20250720-WA0009.jpg" alt="Profile-pic" class="w-45 h-45 rounded-[150px] mt-6">
+                  
+                  
+                  
+                </div>
+                <div class="flex flex-col gap-6">
+                  <div class="flex gap-3 items-center">
+                    <p class="font-semibold text-2xl">sheikh_.moizz</p>
+                    <button class="bg-gray-200 px-3 py-[8px] rounded-[5px] font-semibold ml-3 ">Edit profile</button>
+                    <button class="bg-gray-200 px-3 py-[8px] rounded-[5px] font-semibold ">View archive</button>
+                    <img src="/Images/settings-icon.jpeg" alt="Settings" class="w-7 h-7 cursor-pointer">
+                  </div>
+                  <div class="flex items-center gap-12">
+                      <p class="text-gray-500 text-lg font-normal"> <span class="text-black font-semibold">16</span> posts</p>
+
+                      <p class="text-gray-500 text-lg font-normal cursor-pointer"> <span class="text-black font-semibold">99</span> followers</p>
+
+
+                      <p class="text-gray-500 text-lg font-normal cursor-pointer"> <span class="text-black font-semibold">262</span> following</p>
+                  </div>
+                  <div>
+                    <p class="font-semibold text-lg">Sheikh Sahab</p>
+                    <p class="w-[600px]"> -SC: abdulmoiz.911</p>
+                    <p class="w-[600px]"> -Tiktok:sheikh_.moiz</p>
+                    <p class="w-[600px]"> -Leo</p>
+                  </div>
+                </div>
+                
+              </header>
+              <div>
+
+
+
+
+                <div class="flex flex-col">
+                  <div class="bg-gray-500 w-[102px] h-[102px] flex items-center justify-center rounded-[60px] ml-20 mt-15">
+                    <img src="/Images/gray-new-icon.jpeg" alt="Plus" class="w-25 rounded-[50px] cursor-pointer">
+                  </div>
+                  <p class="ml-28 mt-3 font-semibold">New</p>
+                </div>
+                <hr class="border-t-1 border-gray-300 mt-16">
+
+                <div class="flex justify-center gap-14 mt-4">
+                  <div class="flex items-center gap-2">
+                    <img src="/Images/Posts-icon.png" alt="Posts" class="w-4 h-4">
+                    <p class="font-semibold cursor-pointer">POSTS</p>
+                  </div>
+                 <div class="flex items-center gap-2">
+                    <img src="/Images/instagram-save-icon.png" alt="Posts" class="w-4 h-4">
+                    <p class="font-semibold text-gray-400 cursor-pointer">SAVED</p>
+                  </div>
+                  <div class="flex items-center gap-2">
+                    <img src="/Images/instagram-tag-icon.png" alt="Posts" class="w-4 h-4">
+                    <p class="font-semibold text-gray-400 cursor-pointer">TAGGED</p>
+                  </div>
+
+                </div>
+                <div class="grid grid-cols-3 gap-x-1 gap-y-1 mt-5">
+
+                  <div>
+                    <img src="IMG-20250720-WA0005.jpg" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="IMG-20250720-WA0006.jpg" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="IMG-20250720-WA0007.jpg" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="IMG-20250720-WA0008.jpg" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="IMG-20250720-WA0010.jpg" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="IMG-20250720-WA0011.jpg" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="IMG-20250720-WA0012.jpg" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="IMG-20250720-WA0013.jpg" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="IMG-20250720-WA0014.jpg" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="IMG-20250720-WA0015.jpg" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="2024_12_11_15_28_IMG_8104.png" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="2025_01_11_11_22_IMG_9308.png" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="2025_04_03_18_05_IMG_1789.png" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="2025_06_08_19_02_IMG_4780.png" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="2025_06_21_13_47_IMG_5154.png" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                  <div>
+                    <img src="2025_06_21_18_02_IMG_5261.png" alt="Post_2" class="h-130 w-full">    
+                  </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+    
+</body>
+</html>
