@@ -64,7 +64,7 @@
                     </p>
                 </div>
                 <div class="flex items-center gap-2 ">
-                    <img src="IMG-20250720-WA0009.jpg" alt="home" class=" w-6 h-6 rounded-[100px] border-2 " >
+                    <img src="/Posts/IMG-20250720-WA0009.jpg" alt="home" class=" w-6 h-6 rounded-[100px] border-2 " >
                     <p class=" font-bold">
                         Profile
                     </p>
@@ -84,7 +84,7 @@
         <div class="w-300 h-1000 bg-white">
             <header class="flex justify-center mt-12 gap-25">
                 <div>
-                  <img src="IMG-20250720-WA0009.jpg" alt="Profile-pic" class="w-45 h-45 rounded-[150px] mt-6">
+                  <img src="/Posts/IMG-20250720-WA0009.jpg" alt="Profile-pic" class="w-45 h-45 rounded-[150px] mt-6">
                   
                   
                   
@@ -144,68 +144,78 @@
                 <div class="grid grid-cols-3 gap-x-1 gap-y-1 mt-5">
 
                   <div>
-                    <img src="IMG-20250720-WA0005.jpg" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/IMG-20250720-WA0005.jpg" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="IMG-20250720-WA0006.jpg" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/IMG-20250720-WA0006.jpg" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="IMG-20250720-WA0007.jpg" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/IMG-20250720-WA0007.jpg" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="IMG-20250720-WA0008.jpg" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/IMG-20250720-WA0008.jpg" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="IMG-20250720-WA0010.jpg" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/IMG-20250720-WA0010.jpg" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="IMG-20250720-WA0011.jpg" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/IMG-20250720-WA0011.jpg" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="IMG-20250720-WA0012.jpg" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/IMG-20250720-WA0012.jpg" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="IMG-20250720-WA0013.jpg" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/IMG-20250720-WA0013.jpg" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="IMG-20250720-WA0014.jpg" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/IMG-20250720-WA0014.jpg" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="IMG-20250720-WA0015.jpg" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/IMG-20250720-WA0015.jpg" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="2024_12_11_15_28_IMG_8104.png" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/2024_12_11_15_28_IMG_8104.png" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="2025_01_11_11_22_IMG_9308.png" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/2025_01_11_11_22_IMG_9308.png" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="2025_04_03_18_05_IMG_1789.png" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/2025_04_03_18_05_IMG_1789.png" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="2025_06_08_19_02_IMG_4780.png" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/2025_06_08_19_02_IMG_4780.png" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="2025_06_21_13_47_IMG_5154.png" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/2025_06_21_13_47_IMG_5154.png" alt="Post_2" class="h-130 w-full">    
                   </div>
 
                   <div>
-                    <img src="2025_06_21_18_02_IMG_5261.png" alt="Post_2" class="h-130 w-full">    
+                    <img src="/posts/2025_06_21_18_02_IMG_5261.png" alt="Post_2" class="h-130 w-full">    
                   </div>
+
+                 
+
+                  
+
+
+                    
+
+
+
 
                     </div>
                 </div>
